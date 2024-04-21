@@ -18,6 +18,7 @@ project_root/
 |  |- bin/          # Compiled client application binaries 
 |  |- lib/          # External libraries used by the client project
 |  |- src/          # Client source code files (.java)
+|  |    |- assets   
 |  |- README.md     # Brief explanation of the code
 |- README.md        # Top-level project README
 ```
